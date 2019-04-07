@@ -11,7 +11,6 @@ import android.widget.TextView;
 import com.rza.homework.weatherproject.Model.City;
 import com.rza.homework.weatherproject.Model.WeatherForecast;
 import com.rza.homework.weatherproject.Model.WeatherModel;
-import com.rza.homework.weatherproject.api.MockWeatherApi;
 import com.rza.homework.weatherproject.api.WeatherApi;
 import com.rza.homework.weatherproject.api.WeatherListener;
 import com.rza.homework.weatherproject.api.okhttp.OkHttpWeatherApi;
